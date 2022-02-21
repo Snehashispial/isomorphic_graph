@@ -1,1 +1,2 @@
-# isomorphic_graph
+Isomorphism is a very general concept that appears in several areas of mathematics. The word derives from the Greek iso, meaning “equal’’ and morphosis, meaning “to form’’ or “to shape’’. Formally, an isomorphism is bijective morphism. Informally, an isomorphism is a map that preserves sets and relations among elements. 
+Two graphs are isomorphic if both have same number of vertices, edges, same number of vertices having eual degree and their sequence is same.
